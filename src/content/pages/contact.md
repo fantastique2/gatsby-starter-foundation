@@ -1,8 +1,10 @@
 ---
 template: contact-page
 slug: /contact
-title: Get in touch
+title: Как со мной связаться
 ---
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
+### Если вы интересуетесь на счет того сего - вы мошете связаться со мной по:
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+Электронной почте: mariacallas@gmail.com
+Телефону: +7 (916) 412 32 54\
+Twitter: https://twitter.com/MmeCallas
