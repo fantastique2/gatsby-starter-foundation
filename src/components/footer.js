@@ -11,7 +11,7 @@ const Footer = () => (
     }}
   >
     <div className="container">
-      <p>Надо любить жизнь больше, чем смысл жизни. <span className="icon -love"><RiHeart2Line/></span> - <Link to="/">wikipedia.org/wiki/Fyodor_Dostoevsky</Link></p>
+      <p>Надо любить жизнь больше, чем смысл жизни. <span className="icon -love"><RiHeart2Line/></span> - <Link to="wikipedia.org/wiki/Fyodor_Dostoevsky">Фёдор Достоевский</Link></p>
     </div>
   </footer>
 )
